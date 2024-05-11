@@ -1,0 +1,2 @@
+require("toga")
+print("hello")
